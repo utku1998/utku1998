@@ -1,6 +1,15 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=utku1998&show_icons=true">
 
 # Hi, my name is Utku!
+Utku Budak received his Bachelor’s and Master’s degrees in Electrical and Computer Engineering from Technical University of Munich. Since August 2023, he has been with the Chair of Security in Information Technology at Technical University of Munich, where he is pursuing his Ph.D. in cooperation with Siemens AG, Munich, Germany. His research interests include: 
+
+Cyber Resilience
+Firmware Resilience
+Resilience Engine (RE)
+Secure Boot
+Device Identifier Composition Engine (DICE)
+Trusted Computing
+Post-Quantum Cryptography
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utku1998" alt="utku1998" /> </p>
 
