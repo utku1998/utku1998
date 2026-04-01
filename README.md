@@ -1,21 +1,15 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=utku1998&show_icons=true">
+# M. Sc. Utku Budak
 
-# Hi, my name is Utku!
 Utku Budak received his Bachelor’s and Master’s degrees in Electrical and Computer Engineering from Technical University of Munich. Since August 2023, he has been with the Chair of Security in Information Technology at Technical University of Munich, where he is pursuing his Ph.D. in cooperation with Siemens AG, Munich, Germany. His research interests include: 
 
-Cyber Resilience
-Firmware Resilience
-Resilience Engine (RE)
-Secure Boot
-Device Identifier Composition Engine (DICE)
-Trusted Computing
-Post-Quantum Cryptography
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utku1998" alt="utku1998" /> </p>
-
-[![](https://img.shields.io/github/followers/utku1998?style=social)](https://www.github.com/utku1998)
+- Cyber Resilience
+- Firmware Resilience
+- Resilience Engine (RE)
+- Secure Boot
+- Device Identifier Composition Engine (DICE)
+- Trusted Computing
+- Trusted Execution Environments (TEEs), e.g., ARM TrustZone
+- Post-Quantum Cryptography
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utku-budak-90746016a/)
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utkubudak98/)
-[![Mail Badge](https://img.shields.io/badge/utkubudak22@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:utkubudak22@gmail.com)](mailto:utkubudak22@gmail.com)
-
+[![Email](https://img.shields.io/badge/EMail-0065BD?style=for-the-badge&logo=mail&logoColor=white)](mailto:utku.budak@tum.de)
